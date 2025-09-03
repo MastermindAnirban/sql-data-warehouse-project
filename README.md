@@ -19,7 +19,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, eneb
 - **Documentation**: Provide clear documentation of the model to support both business stakeholders and analytics teams.
 
 
---
+---
 
 ### BI: Analytics & reporting ( Data Analytics)
 
@@ -31,7 +31,7 @@ Develop SQL-Based analytics to deliver detailed insights into :
 
   These insights empower stakeholders with key business metrics, enabiling strategic decision-making
 
-  --
+  ---
 
   ## 🛡️ License
 
